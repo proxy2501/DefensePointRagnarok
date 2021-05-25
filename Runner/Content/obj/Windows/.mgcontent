@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/Mikkel Nielsen-Man/source/repos/FirstYearExamen/Dania.Courses.FørsteÅrseksamen.Project/Runner/Content/Background/GameOverBackground.png</File>
+    <File>C:/Users/Mikkel Nielsen-Man/source/repos/FirstYearExamen/Dania.Courses.FørsteÅrseksamen.Project/Runner/Content/Background/purple.png</File>
+    <File>C:/Users/Mikkel Nielsen-Man/source/repos/FirstYearExamen/Dania.Courses.FørsteÅrseksamen.Project/Runner/Content/Background/SplashScreenBackground.png</File>
+    <File>C:/Users/Mikkel Nielsen-Man/source/repos/FirstYearExamen/Dania.Courses.FørsteÅrseksamen.Project/Runner/Content/Background/TempBackground.png</File>
+    <File>C:/Users/Mikkel Nielsen-Man/source/repos/FirstYearExamen/Dania.Courses.FørsteÅrseksamen.Project/Runner/Content/Background/TitleBackground.jpg</File>
+    <File>C:/Users/Mikkel Nielsen-Man/source/repos/FirstYearExamen/Dania.Courses.FørsteÅrseksamen.Project/Runner/Content/Buttons/Font.spritefont</File>
+    <File>C:/Users/Mikkel Nielsen-Man/source/repos/FirstYearExamen/Dania.Courses.FørsteÅrseksamen.Project/Runner/Content/Buttons/Respawn1.PNG</File>
+    <File>C:/Users/Mikkel Nielsen-Man/source/repos/FirstYearExamen/Dania.Courses.FørsteÅrseksamen.Project/Runner/Content/Buttons/Respawn2.png</File>
+    <File>C:/Users/Mikkel Nielsen-Man/source/repos/FirstYearExamen/Dania.Courses.FørsteÅrseksamen.Project/Runner/Content/Buttons/Respawn3.png</File>
+    <File>C:/Users/Mikkel Nielsen-Man/source/repos/FirstYearExamen/Dania.Courses.FørsteÅrseksamen.Project/Runner/Content/Enemy_Walking_Animation/8_enemies_1_walk_0.png</File>
+    <File>C:/Users/Mikkel Nielsen-Man/source/repos/FirstYearExamen/Dania.Courses.FørsteÅrseksamen.Project/Runner/Content/Enemy_Walking_Animation/8_enemies_1_walk_1.png</File>
+    <File>C:/Users/Mikkel Nielsen-Man/source/repos/FirstYearExamen/Dania.Courses.FørsteÅrseksamen.Project/Runner/Content/Enemy_Walking_Animation/8_enemies_1_walk_10.png</File>
+    <File>C:/Users/Mikkel Nielsen-Man/source/repos/FirstYearExamen/Dania.Courses.FørsteÅrseksamen.Project/Runner/Content/Enemy_Walking_Animation/8_enemies_1_walk_11.png</File>
+    <File>C:/Users/Mikkel Nielsen-Man/source/repos/FirstYearExamen/Dania.Courses.FørsteÅrseksamen.Project/Runner/Content/Enemy_Walking_Animation/8_enemies_1_walk_12.png</File>
+    <File>C:/Users/Mikkel Nielsen-Man/source/repos/FirstYearExamen/Dania.Courses.FørsteÅrseksamen.Project/Runner/Content/Enemy_Walking_Animation/8_enemies_1_walk_13.png</File>
+    <File>C:/Users/Mikkel Nielsen-Man/source/repos/FirstYearExamen/Dania.Courses.FørsteÅrseksamen.Project/Runner/Content/Enemy_Walking_Animation/8_enemies_1_walk_14.png</File>
+    <File>C:/Users/Mikkel Nielsen-Man/source/repos/FirstYearExamen/Dania.Courses.FørsteÅrseksamen.Project/Runner/Content/Enemy_Walking_Animation/8_enemies_1_walk_15.png</File>
+    <File>C:/Users/Mikkel Nielsen-Man/source/repos/FirstYearExamen/Dania.Courses.FørsteÅrseksamen.Project/Runner/Content/Enemy_Walking_Animation/8_enemies_1_walk_16.png</File>
+    <File>C:/Users/Mikkel Nielsen-Man/source/repos/FirstYearExamen/Dania.Courses.FørsteÅrseksamen.Project/Runner/Content/Enemy_Walking_Animation/8_enemies_1_walk_17.png</File>
+    <File>C:/Users/Mikkel Nielsen-Man/source/repos/FirstYearExamen/Dania.Courses.FørsteÅrseksamen.Project/Runner/Content/Enemy_Walking_Animation/8_enemies_1_walk_18.png</File>
+    <File>C:/Users/Mikkel Nielsen-Man/source/repos/FirstYearExamen/Dania.Courses.FørsteÅrseksamen.Project/Runner/Content/Enemy_Walking_Animation/8_enemies_1_walk_19.png</File>
+    <File>C:/Users/Mikkel Nielsen-Man/source/repos/FirstYearExamen/Dania.Courses.FørsteÅrseksamen.Project/Runner/Content/Enemy_Walking_Animation/8_enemies_1_walk_2.png</File>
+    <File>C:/Users/Mikkel Nielsen-Man/source/repos/FirstYearExamen/Dania.Courses.FørsteÅrseksamen.Project/Runner/Content/Enemy_Walking_Animation/8_enemies_1_walk_3.png</File>
+    <File>C:/Users/Mikkel Nielsen-Man/source/repos/FirstYearExamen/Dania.Courses.FørsteÅrseksamen.Project/Runner/Content/Enemy_Walking_Animation/8_enemies_1_walk_4.png</File>
+    <File>C:/Users/Mikkel Nielsen-Man/source/repos/FirstYearExamen/Dania.Courses.FørsteÅrseksamen.Project/Runner/Content/Enemy_Walking_Animation/8_enemies_1_walk_5.png</File>
+    <File>C:/Users/Mikkel Nielsen-Man/source/repos/FirstYearExamen/Dania.Courses.FørsteÅrseksamen.Project/Runner/Content/Enemy_Walking_Animation/8_enemies_1_walk_6.png</File>
+    <File>C:/Users/Mikkel Nielsen-Man/source/repos/FirstYearExamen/Dania.Courses.FørsteÅrseksamen.Project/Runner/Content/Enemy_Walking_Animation/8_enemies_1_walk_7.png</File>
+    <File>C:/Users/Mikkel Nielsen-Man/source/repos/FirstYearExamen/Dania.Courses.FørsteÅrseksamen.Project/Runner/Content/Enemy_Walking_Animation/8_enemies_1_walk_8.png</File>
+    <File>C:/Users/Mikkel Nielsen-Man/source/repos/FirstYearExamen/Dania.Courses.FørsteÅrseksamen.Project/Runner/Content/Enemy_Walking_Animation/8_enemies_1_walk_9.png</File>
+    <File>C:/Users/Mikkel Nielsen-Man/source/repos/FirstYearExamen/Dania.Courses.FørsteÅrseksamen.Project/Runner/Content/Grid/GridTexture.png</File>
+    <File>C:/Users/Mikkel Nielsen-Man/source/repos/FirstYearExamen/Dania.Courses.FørsteÅrseksamen.Project/Runner/Content/SpriteFont.spritefont</File>
+    <File>C:/Users/Mikkel Nielsen-Man/source/repos/FirstYearExamen/Dania.Courses.FørsteÅrseksamen.Project/Runner/Content/Sprites/CollisionBox.png</File>
+    <File>C:/Users/Mikkel Nielsen-Man/source/repos/FirstYearExamen/Dania.Courses.FørsteÅrseksamen.Project/Runner/Content/Sprites/Temp/60px/Enemy.png</File>
+    <File>C:/Users/Mikkel Nielsen-Man/source/repos/FirstYearExamen/Dania.Courses.FørsteÅrseksamen.Project/Runner/Content/Sprites/Temp/60px/Player.png</File>
+    <File>C:/Users/Mikkel Nielsen-Man/source/repos/FirstYearExamen/Dania.Courses.FørsteÅrseksamen.Project/Runner/Content/Sprites/Temp/60px/Projectile.png</File>
+    <File>C:/Users/Mikkel Nielsen-Man/source/repos/FirstYearExamen/Dania.Courses.FørsteÅrseksamen.Project/Runner/Content/Sprites/Temp/60px/Tower.png</File>
+    <File>C:/Users/Mikkel Nielsen-Man/source/repos/FirstYearExamen/Dania.Courses.FørsteÅrseksamen.Project/Runner/Content/Sprites/Temp/60px/TownHall.png</File>
+    <File>C:/Users/Mikkel Nielsen-Man/source/repos/FirstYearExamen/Dania.Courses.FørsteÅrseksamen.Project/Runner/Content/Sprites/Temp/Enemy.png</File>
+    <File>C:/Users/Mikkel Nielsen-Man/source/repos/FirstYearExamen/Dania.Courses.FørsteÅrseksamen.Project/Runner/Content/Sprites/Temp/Player.png</File>
+    <File>C:/Users/Mikkel Nielsen-Man/source/repos/FirstYearExamen/Dania.Courses.FørsteÅrseksamen.Project/Runner/Content/Sprites/Temp/Projectile.png</File>
+    <File>C:/Users/Mikkel Nielsen-Man/source/repos/FirstYearExamen/Dania.Courses.FørsteÅrseksamen.Project/Runner/Content/Sprites/Temp/Tower.png</File>
+    <File>C:/Users/Mikkel Nielsen-Man/source/repos/FirstYearExamen/Dania.Courses.FørsteÅrseksamen.Project/Runner/Content/Sprites/Temp/TownHall.png</File>
+    <File>C:/Users/Mikkel Nielsen-Man/source/repos/FirstYearExamen/Dania.Courses.FørsteÅrseksamen.Project/Runner/Content/TownHall/THBuilding.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

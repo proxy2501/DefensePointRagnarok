@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/Mikkel Nielsen-Man/source/repos/FirstYearExamen/Dania.Courses.FørsteÅrseksamen.Project/Runner/Content/Buttons/Font.spritefont</SourceFile>
+  <SourceTime>2020-06-10T16:43:02.4961969+02:00</SourceTime>
+  <DestFile>C:/Users/Mikkel Nielsen-Man/source/repos/FirstYearExamen/Dania.Courses.FørsteÅrseksamen.Project/Runner/Content/bin/Windows/Buttons/Font.xnb</DestFile>
+  <DestTime>2020-06-12T08:17:53.5693172+02:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2018-12-08T17:35:54+01:00</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2018-12-08T17:35:54+01:00</ProcessorTime>
+  <Parameters>
+    <Key>PremultiplyAlpha</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>
